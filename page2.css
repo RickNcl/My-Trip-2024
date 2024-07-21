@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 3%;
+    background-color: #A0EFF8;
+}
+
+fieldset {
+    margin: 5%;
+    padding: 5% 30%;
+}
+
+legend {
+    margin: -50%;
+    border: 3px solid grey;
+    padding: 0 3%;
+    font-family: cursive;
+    font-size: x-large;
+}
+
+.reply {
+    line-height: 35px;
+}

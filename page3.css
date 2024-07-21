@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 3%;
+    background-color: #A0EFF8;
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline wavy grey;
+    margin: 1% 30%;
+}
+
+ul {
+    margin: 0 35% 3%;
+}
+
+.country {
+    border: 3px solid darkblue;
+    margin: 1% 20%;
+    padding: 1%;
+}
